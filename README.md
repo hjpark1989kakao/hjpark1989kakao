@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @hjpark1989kakao
+- This account is a temporary repository for lectures.
